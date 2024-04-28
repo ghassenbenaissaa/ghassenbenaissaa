@@ -1,16 +1,19 @@
-### Hi there 👋
+# Salut les codeurs ! 👋 Je suis Ghassen Benaissa, l'ingénieur en informatique qui transforme des lignes de code en magie numérique ✨
 
-<!--
-**ghassenbenaissaa/ghassenbenaissaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+- 🔭 Actuellement, je suis en train de construire des châteaux dans le cloud en utilisant mes super pouvoirs de développement.
+- 🌱 Je suis en train de cultiver mon jardin de compétences, en plantant des graines de Python, d'Angular et de Docker.
+- 👯 Je suis partant pour des aventures collaboratives ! Si vous avez une idée de projet épique, je suis votre homme.
+- 💬 J'adore bavarder sur les dernières techs, les algorithmes complexes ou même les meilleurs endroits pour une pause café.
+- 📫 Envoyez-moi un pigeon voyageur ou, plus simplement, un e-mail à [votre@email.com](mailto:votre@email.com).
+- 😄 Pronoms : Il/lui
+- ⚡ Fun fact : Je suis un maître Jedi dans l'art du debugging - mes sabres laser sont prêts à affronter n'importe quel bug !
 
-Here are some ideas to get you started:
+## Technologies et outils
+- Langages : Python, JavaScript, Java
+- Frameworks : React, Django, Spring Boot
+- Outils magiques : Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+Faites un tour dans mon royaume de dépôts GitHub et laissez-vous éblouir par mes sorts de programmation ! 🚀
