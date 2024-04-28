@@ -5,5 +5,7 @@ I'm a software engineer passionate about Java and DevOps, dedicated to integrati
 ## Let's Stay Connected! 📬
 -💼 My LinkedIn Profile
 -✉️ My Email
+- Languages: Python, JavaScript, Java
+- Frameworks: React, Django, Spring Boot
 
 ![Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
