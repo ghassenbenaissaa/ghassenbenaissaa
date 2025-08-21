@@ -1,9 +1,51 @@
-# Hi ,I'm Ghassen✨
+# 👨‍💻 Ghassen Ben Aissa  
 
-I'm a software engineer passionate about Java, dedicated to integrating the United Nations Sustainable Development Goals (SDGs) into my projects. I consistently aim to implement at least one SDG to contribute to a more sustainable future. 🚀 I'm open to collaborating on innovative projects where I can both contribute my expertise and learn from others. 💡 Feel free to ask me about my projects or interests—I'm always happy to discuss both technical and non-technical topics. 😎
+✨ Software Engineer | ☕ Java Enthusiast | 🌍 SDG Advocate | 🚀 Open-Source Explorer  
 
-## Let's Stay Connected! 📬
-- 💼 [My LinkedIn Profile](https://www.linkedin.com/in/ghassen-ben-aissa-071478251)
-- ✉️ [My Email](mailto:ghassen.benaissa@esprit.tn)
+---
 
-![Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+## 🚩 About Me  
+
+I'm a **software engineer** with a strong passion for **Java development** and a vision of integrating the **United Nations Sustainable Development Goals (SDGs)** into real-world projects.  
+I believe every line of code can contribute to a **sustainable future**, and I strive to embed at least **one SDG** in my projects.  
+
+With experience across **modern frameworks, clean architecture, and collaborative development**, I enjoy working on **challenging projects** where I can innovate, share knowledge, and grow with the community.  
+
+💡 Always curious, always learning — and always ready to discuss **tech & beyond**.  
+
+---
+
+## 🛠️ Tech Toolbox  
+
+- **Languages:** Java, JavaScript, TypeScript, C#, SQL  
+- **Frameworks & Tools:** Spring Boot, Angular, .NET, Node.js  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **DevOps & Cloud:** Docker, GitHub Actions, CI/CD, Cloudinary  
+- **Other Skills:** Software Architecture, API Design, Agile Development  
+
+---
+
+## 📊 GitHub Stats  
+
+![Ghassen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassen-benaissa&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassen-benaissa&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Vision & Values  
+
+- 🌱 Advocate of **sustainability** in tech through SDG integration  
+- 🤝 Believer in **collaboration & knowledge-sharing**  
+- 🧩 Passionate about solving **real-world problems** with clean, scalable code  
+
+---
+
+## 📬 Let's Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ghassen-ben-aissa-071478251)  
+- ✉️ [Email](mailto:ghassen.benaissa@esprit.tn)  
+
+---
+
+![Coding Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
