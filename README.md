@@ -27,9 +27,9 @@ With experience across **modern frameworks, clean architecture, and collaborativ
 
 ## 📊 GitHub Stats  
 
-![Ghassen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassen-benaissa&show_icons=true&theme=radical)  
+![Ghassen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghassenbenaissaa&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassen-benaissa&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassenbenaissaa&layout=compact&theme=radical)  
 
 ---
 
